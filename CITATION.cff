@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Nếu trích dẫn dự án này, xin dùng thông tin dưới đây. / If you cite this project, please use the metadata below."
+title: "CHAM · Tân Lộc: eco-homestay project on Tân Lộc river island (Cần Thơ, Vietnam)"
+authors:
+  - family-names: "Đỗ"
+    given-names: "Thùy Hương"
+    affiliation: "Can Tho University"
+    orcid: "https://orcid.org/0000-0002-7711-2487"
+doi: 10.5281/zenodo.23720576
+license: CC-BY-NC-ND-4.0
+url: "https://github.com/thuyhuongctu/CHAM"
+date-released: 2026-10-28
