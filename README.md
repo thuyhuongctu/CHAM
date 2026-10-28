@@ -4,11 +4,11 @@
 
 **Một đêm trên cù lao · *Une nuit sur l'île* · A night on the river island**
 
-CHAM là dự án homestay sinh thái trên cù lao Tân Lộc (Cần Thơ) do **Đỗ Thùy Hương** khởi thảo năm 2023 và viết lại năm 2026. Tân Lộc được công nhận là xã đảo theo Quyết định 3972/QĐ-UBND ngày 07/8/2026. Tên CHAM lấy từ hoa cúc La Mã (*chamomile*): nhẹ, lành, nghỉ ngơi.
+CHAM là dự án homestay sinh thái trên cù lao Tân Lộc (Cần Thơ) do **Đỗ Thùy Hương** khởi thảo năm 2017, khi học cử nhân Kinh doanh quốc tế (học phần Khởi sự doanh nghiệp), và viết lại năm 2026. Tân Lộc được công nhận là xã đảo theo Quyết định 3972/QĐ-UBND ngày 07/8/2026. Tên CHAM lấy từ hoa cúc La Mã (*chamomile*): nhẹ, lành, nghỉ ngơi.
 
-*CHAM is an eco-homestay project on Tân Lộc river island (Cần Thơ, Vietnam), first drafted by Đỗ Thùy Hương in 2023 and rewritten in 2026.*
+*CHAM is an eco-homestay project on Tân Lộc river island (Cần Thơ, Vietnam), first drafted by Đỗ Thùy Hương in 2017 as a Business Start-up course project during her bachelor’s in International Business, and rewritten in 2026.*
 
-*CHAM est un projet d'écohébergement sur l'île fluviale de Tân Lộc (Cần Thơ, Vietnam), conçu par Đỗ Thùy Hương en 2023 et réécrit en 2026.*
+*CHAM est un projet d'écohébergement sur l'île fluviale de Tân Lộc (Cần Thơ, Vietnam), conçu par Đỗ Thùy Hương en 2017 dans le cours de création d’entreprise de sa licence en commerce international, et réécrit en 2026.*
 
 ## Đọc thêm · Read more
 
@@ -18,7 +18,7 @@ CHAM là dự án homestay sinh thái trên cù lao Tân Lộc (Cần Thơ) do *
 
 ## Bản quyền · Copyright
 
-© 2023–2026 Đỗ Thùy Hương.
+© 2017–2026 Đỗ Thùy Hương.
 
 - Tên và dấu hiệu CHAM, kế hoạch kinh doanh đầy đủ: bảo lưu mọi quyền. *All rights reserved. Tous droits réservés.*
 - Phần mô tả công khai trong kho này: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (ghi tên tác giả, phi thương mại, không sửa đổi).
